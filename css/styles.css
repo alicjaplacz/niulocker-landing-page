@@ -128,6 +128,16 @@ p {
 
 h1 {
   font-size: 2.5rem;
+  color: #79d70f;
+  font-weight: 300;
+}
+
+/* span {
+  font-size: 3rem;
+} */
+.title {
+  color: #f7f7f7;
+  font-weight: 400;
 }
 
   .button {
@@ -143,6 +153,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    line-height: 1.5;
   }
 
   .left {
